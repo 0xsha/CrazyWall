@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1621948582267" clover="3.2.0">
+  <project timestamp="1621948582268" name="All files">
+    <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0" elements="12" coveredelements="0" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="login.vue" path="/Users/mac/Desktop/front-end/pages/login.vue">
+      <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
