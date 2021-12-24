@@ -6,7 +6,7 @@ The complete writeup is available<strong> [here.](https://0xsha.io/blog/introduc
 
 ## Demo
 
-[![Watch the video](./assets/crazywall.png)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](./assets/crazywall.png)](https://www.youtube.com/watch?v=2u1D9Wvr0AI)
 
 
 ## How to use it?
