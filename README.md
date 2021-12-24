@@ -37,7 +37,7 @@ All you have to do is go to the main page, type your keyword, select your mode b
 
 <strong>Site Data</strong>
 
-![CrazyWall](./assets/c6.png)
+![CrazyWall](./assets/c5.png)
 
 
 
