@@ -11,9 +11,8 @@ require (
 	github.com/gofiber/jwt/v2 v2.2.2
 	github.com/joho/godotenv v1.3.0
 	github.com/leodido/go-urn v1.2.1 // indirect
-	github.com/valyala/fasthttp v1.25.0
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/sys v0.0.0-20210521203332-0cec03c779c1 // indirect
+	github.com/valyala/fasthttp v1.34.0
+	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gorm.io/datatypes v1.0.1
 	gorm.io/driver/mysql v1.1.0
